@@ -4,7 +4,7 @@
 
 /*
  * Maman14 - course 20465 - b2021
- * AUTHORS: Naveh Racovsky (209618198) and Tom Weiner (326382363).
+ * AUTHOR: Tom Weiner (326382363).
  * DATE: 12/08/2021
  * FILES INCLUDED: 
  	 - assembler.c
